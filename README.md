@@ -2,4 +2,4 @@
 
 Term project for CURRIC534
 
-Game link: https://yibokong.itch.io/homework1
+Game link: https://yibokong.itch.io/Robot-Dungeon
